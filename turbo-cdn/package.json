@@ -5,7 +5,7 @@
   "dependencies": {
     "agentkeepalive": "^3.3.0",
     "express": "^4.16.2",
-    "json-stable-stringify": "^1.0.1",
+    "json-stable-stringify": "^1.0.2",
     "lodash": "^4.17.4",
     "semver": "^5.4.1",
     "superagent": "^3.8.1",
