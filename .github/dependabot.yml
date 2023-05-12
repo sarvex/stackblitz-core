@@ -17,3 +17,7 @@ updates:
     directory: "/turbo-cdn" # Location of package manifests
     schedule:
       interval: "weekly"
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/hyperdeploy" # Location of package manifests
+    schedule:
+      interval: "weekly"
