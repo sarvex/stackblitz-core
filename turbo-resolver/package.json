@@ -11,6 +11,6 @@
     "graphlib": "^2.1.8",
     "npm-package-arg": "^10.1.0",
     "semver": "^7.5.0",
-    "superagent": "^3.8.2"
+    "superagent": "^8.0.9"
   }
 }
