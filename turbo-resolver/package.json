@@ -10,7 +10,7 @@
     "async": "^3.2.4",
     "graphlib": "^2.1.8",
     "npm-package-arg": "^10.1.0",
-    "semver": "^7.5.0",
+    "semver": "^7.5.1",
     "superagent": "^8.0.9"
   }
 }
