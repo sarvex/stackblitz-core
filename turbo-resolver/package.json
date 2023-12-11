@@ -7,7 +7,7 @@
     "url": "https://github.com/stackblitz/core.git"
   },
   "dependencies": {
-    "async": "^3.2.4",
+    "async": "^3.2.5",
     "graphlib": "^2.1.8",
     "npm-package-arg": "^10.1.0",
     "semver": "^7.5.1",
